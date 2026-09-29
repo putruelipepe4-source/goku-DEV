@@ -1,1 +1,364 @@
---[[ v1.0.0 https://wearedevs.net ]] return(function(...)local u={"\105\106\043\075\112\105\118\122\104\099\047\066\088\099\085\061";"\083\099\047\075\077\099\083\115\053\065\118\076\104\099\083\073\104\099\083\097\053\067\061\061","\107\121\043\109\107\121\047\049","\106\122\103\103\077\117\079\117\104\110\066\043\117\051\115\080\069\114\097\076\048\107\109\113\056\103\114\076\089\072\048\047\048\103\061\061";"\104\099\043\119\104\084\074\090\088\071\077\061";"\077\099\113\122\088\099\079\061";"\113\065\075\048\080\065\090\083\080\084\112\080\104\106\065\119\088\085\077\061","\088\050\065\061","\077\081\118\115\068\080\108\110","\070\099\057\112\088\047\065\121\104\121\074\108\070\083\076\118\080\067\061\061","\077\071\047\109\112\099\043\075","\104\080\108\079\107\080\113\069","\105\106\043\114\112\080\102\061";"\077\071\083\075\088\081\112\076","\077\121\083\049\088\080\083\049\107\105\118\122\107\071\057\076","\100\050\051\097\100\110\076\054\054\110\083\086\068\080\122\072\054\110\117\061","","\088\106\090\119\087\121\113\120\112\083\074\081\104\080\108\090\104\079\061\061","\087\054\083\074\068\105\090\083\077\083\083\099\085\050\053\079\072\103\061\061";"\112\071\057\101\088\081\053\061";"\077\084\074\090\088\110\067\061";"\088\050\053\061";"\085\097\090\079\107\097\118\066\068\103\061\061","\104\099\043\109\104\080\106\066\112\105\053\061","\100\097\082\115\067\073\076\055\107\073\085\108\085\119\076\073","\112\121\106\122\104\099\113\120","\112\081\113\106\107\117\061\061","\088\080\047\049\068\103\061\061";"\072\105\051\087\080\054\083\099\112\073\067\108\088\121\106\087\113\079\061\061","\074\090\118\078\108\098\054\083\098\102\102\061";"\080\065\108\107\107\121\118\122\104\110\118\101","\105\106\043\090\088\071\118\076\070\103\061\061";"\105\106\043\110\107\079\061\061","\113\116\087\077\097\069\073\098\079\113\120\109\072\086\047\067","\088\099\083\109";"\107\121\122\122\077\117\061\061";"\112\105\074\115\088\081\053\061","\104\099\047\066\088\099\085\061";"\107\110\076\049\112\067\061\061","\072\066\117\076\112\052\120\090\072\117\061\061","\085\119\117\102\080\099\113\051\088\106\113\048\072\083\051\078";"\072\117\061\061","\087\050\113\071\104\083\051\102\104\071\074\079\100\071\057\120\107\117\061\061","\112\097\053\106\077\081\112\054\087\106\104\071\112\076\090\087\080\067\061\061","\088\081\117\061","\054\083\112\084\112\119\122\121\077\105\103\079\087\105\118\074\072\080\053\061"}local function x(x)return u[x+(595676+-553340)]end for x,z in ipairs({{974999+-974998;965954+-965908},{-192471-(-192472),-607992-(-608023)};{418433+-418401,827307-827261}})do while z[629379+-629378]<z[311107-311105]do u[z[-149014-(-149015)]],u[z[186187-186185]],z[-551404+551405],z[971520+-971518]=u[z[480765-480763]],u[z[563429+-563428]],z[-376292-(-376293)]+(152415-152414),z[-667117-(-667119)]-(152968+-152967)end end do local x=math.floor local z=string.sub local n=u local j=type local O=string.char local b=string.len local i={N=31186+-31175;["\048"]=-355225+355240;u=-853296-(-853328),["\050"]=849399+-849396,["\055"]=103803+-103745;P=102166-102144,g=422275-422275;["\057"]=236612-236563;A=-778131+778135,B=388668-388634,r=-1011441-(-1011485),K=462943+-462898,l=-877506-(-877563),["\054"]=-418413+418432,["\049"]=715622-715570;M=-1008130+1008158;E=378526-378483;["\053"]=450469-450461,o=515309+-515250;m=191115-191069;p=702322-702297,t=-373480-(-373542);L=655395+-655358,T=-509993+510000,d=-437776+437794;e=49229+-49182,["\051"]=-510660-(-510661),["\052"]=573400+-573398,c=-278944+278950;V=-104500+104510;["\047"]=1012768+-1012763,q=827393+-827380,i=-644660-(-644683),y=771341+-771287,["\056"]=401505+-401442;X=360240-360213;k=74526+-74502;j=-838972-(-839025),S=663876+-663855;F=-168522+168552,H=241784-241770;f=-1031299-(-1031355),G=730908-730870,I=986262-986227,D=-85875-(-85901),w=-729218+729269,h=-185851+185880;["\043"]=408978-408917,x=-414533-(-414573),J=788193+-788184;Y=-989366+989397;v=-898928-(-898945);b=191152-191110,U=374540-374520,W=-154923-(-154935);a=209421-209385,C=136291+-136275,Z=-299866+299907;Q=-470095+470150,O=-323752+323800;n=-549961+550000,s=-706119-(-706169);z=524235-524202;R=148397-148337}local f=table.concat local D=table.insert for u=-602368-(-602369),#n,-666652+666653 do local V=n[u]if j(V)=="\115\116\114\105\110\103"then local j=b(V)local H={}local k=-1017900-(-1017901)local R=224449-224449 local J=-62824+62824 while k<=j do local u=z(V,k,k)local n=i[u]if n then R=R+n*(-57621-(-57685))^((129029+-129026)-J)J=J+(-381268+381269)if J==-476763+476767 then J=19720+-19720 local u=x(R/(-609818-(-675354)))local z=x((R%(100396-34860))/(766643+-766387))local n=R%(-1015487-(-1015743))D(H,O(u,z,n))R=901393-901393 end elseif u=="\061"then D(H,O(x(R/(696262+-630726))))if k>=j or z(V,k+(-440542-(-440543)),k+(745084+-745083))~="\061"then D(H,O(x((R%(-722145+787681))/(-478311-(-478567)))))end break end k=k+(-99251-(-99252))end n[u]=f(H)end end end return(function(Y,w,M,O,k,t,K,Z,m,P,c,A,J,G,i,s,Q,g,p,b,D) local function t() return print("[+] Cargando con exito: Goku Hub") end t() end)()(Y)
+-- This is patched, leaving this for learning purposes
+-- https://www.roblox.com/games/104715542330896/BlockSpin
+
+assert(false, 'This is patched, leaving this for learning purposes')
+
+local Flags = Flags or {
+	StaminaFarm = true,
+	TweenSpeed = 0.5,
+	BuyAmount = 15,
+	
+	DepositAt = 10_000,
+	DepositAmount = 5_000,
+}
+
+local Services = setmetatable({}, {
+	__index = function(self, key)
+		local cloneref = cloneref or function(...) return ... end
+		local Succ, Result = pcall(cloneref, game:FindService(key))
+		rawset(self, key, Succ and Result or Instance.new(key))
+
+		return rawget(self, key)
+	end
+})
+
+local Players = Services.Players
+local VirtualInputManager = Services.VirtualInputManager
+local ReplicatedStorage = Services.ReplicatedStorage
+
+local Client = Players.LocalPlayer
+local PlayerGui = Client:WaitForChild('PlayerGui')
+local CounterTable = (function()
+	for _, Obj in getgc and getgc(true) or {} do
+		if (typeof(Obj) == 'table' and rawget(Obj, "event") and rawget(Obj, "func")) then
+			return Obj
+		end
+	end
+end)()
+
+for i,v in getconnections(Client.Idled) do
+	v:Disable()
+end
+
+local HiddenFlags = {
+	MoneyDebounce = 0
+}
+
+local GetChar, GetRoot, GetHum, GetATM, MoveTo, SmartWait, SmartGet, HasTool, CallRemote, Deposit, Withdraw; do
+	GetChar = function(player)
+		return player and player.Character
+	end
+
+	GetRoot = function(char)
+		return char and char:FindFirstChild('HumanoidRootPart')
+	end
+
+	GetHum = function(char)
+		return char and char:FindFirstChildWhichIsA('Humanoid')
+	end
+
+	GetATM = function()
+		local Dist, Closest = math.huge, {}
+		local Char = GetChar(Client)
+		local Root = GetRoot(Char)
+
+		if (Char and Root) then
+			for i,v in (workspace.Map.Props:GetChildren()) do
+				if (v.Name ~= 'ATM') then continue end
+
+				local disabled = v:GetAttribute('disabled')
+				if (disabled) then continue end
+				
+				local hacker = v:FindFirstChildWhichIsA('ObjectValue')
+				if (hacker and hacker.Value) then continue end
+
+				for i,v2 in (v:GetChildren()) do
+					local ProximityPrompt = v2:FindFirstChildWhichIsA('ProximityPrompt')
+					if (not ProximityPrompt) then continue end
+
+					local Magnitude = vector.magnitude(v2:GetPivot().Position - Root.Position)
+
+					if (Magnitude < Dist) then
+						Closest = {v, ProximityPrompt}
+						Dist = Magnitude
+					end
+				end
+			end
+		end
+
+		return unpack(Closest)
+	end
+
+	MoveTo = function(pos, increment)
+		if (HiddenFlags.CurrentlyMoving) then return end
+		HiddenFlags.CurrentlyMoving = true
+
+		local Char = GetChar(Client)
+		local Root = GetRoot(Char)
+		local Increment = increment or Flags.TweenSpeed
+
+		local function IncrementalMove(start_pos, end_pos)
+			local Offset = end_pos - start_pos
+			local Distance = vector.magnitude(Offset)
+			local Direction = vector.normalize(Offset)
+			local CurrentPos = start_pos
+
+
+			while shared.afy and Distance > Increment do
+				CurrentPos += Direction * Increment
+				Root.CFrame = CFrame.new(CurrentPos)
+				Root.AssemblyLinearVelocity = vector.zero
+				SmartWait()
+				Offset = end_pos - CurrentPos
+				Distance = vector.magnitude(Offset)
+			end
+
+			if (not shared.afy) then return end
+			Root.CFrame = CFrame.new(end_pos)
+		end
+
+		if (Char and Root) then
+			local CurrentPos = Root.Position
+			local DownPos = vector.create(CurrentPos.X, pos.Y, CurrentPos.Z)
+			local AcrossPos = vector.create(pos.X, pos.Y, pos.Z)
+			local FinalPos = pos
+
+			IncrementalMove(CurrentPos, DownPos)
+			IncrementalMove(DownPos, AcrossPos)
+			IncrementalMove(AcrossPos, FinalPos)
+		end
+
+		HiddenFlags.CurrentlyMoving = false
+	end
+
+	SmartWait = function(_delay, flags_key)
+		local Char = GetChar(Client)
+		local Root = GetRoot(Char)
+		local StartTime = tick()
+
+		if (Char and Root) then
+			local InitCFrame = Root.CFrame
+
+			task.spawn(function()
+				while (shared.afy and Char and Root and (not flags_key or Flags[flags_key]) and tick() - StartTime <= (_delay or 1/60)) do
+					for _, v in (Char:GetDescendants()) do
+						if (v:IsA('BasePart') or v:IsA('MeshPart')) then
+							v.CanCollide = false
+						end
+					end
+
+					Root.CFrame = InitCFrame
+					Root.AssemblyLinearVelocity = vector.zero
+
+					task.wait()
+				end
+			end)
+
+			while (shared.afy and Char and Root and (not flags_key or Flags[flags_key]) and tick() - StartTime <= (_delay or 1/60)) do
+				task.wait(1/60)
+			end
+		end
+	end
+
+	SmartGet = function(inst, obj)
+		if (not inst) then return end
+
+		local Objects = obj:split('.')
+		local Current = inst
+
+		for i, v in Objects do
+			if (not Current) then return end
+
+			Current = Current:FindFirstChild(v)
+		end
+
+		return Current
+	end
+
+	HasTool = function(tool_name)
+		local ItemsScrollingFrame = SmartGet(PlayerGui, 'Items.ItemsHolder.ItemsScrollingFrame')
+
+		if (ItemsScrollingFrame) then
+			for i,v in (ItemsScrollingFrame:GetChildren()) do
+				if (not v:IsA('ImageButton')) then continue end
+
+				if (v.ItemName.Text == tool_name) then
+					return true
+				end
+			end
+		else
+			local InventoryButton = SmartGet(PlayerGui, 'Sidebar.SidebarSlider.SidebarHolder.SidebarHolderSlider.Holder.InventoryButton')
+
+			if (InventoryButton) then
+				for i,v in getconnections(InventoryButton.MouseButton1Click) do
+					v:Function()
+				end
+			end
+		end
+	end
+
+	CallRemote = function(remote, ...)
+		if (not CounterTable) then return end
+
+		if (remote.ClassName == 'RemoteEvent') then
+			CounterTable.event += 1
+
+			remote:FireServer(CounterTable.event, ...)
+		end
+
+		if (remote.ClassName == 'RemoteFunction') then
+			CounterTable.func += 1
+
+			remote:InvokeServer(CounterTable.func, ...)
+		end
+	end
+
+	Deposit = function(amount)
+		CallRemote(ReplicatedStorage.Remotes.Get, "transfer_funds", "hand", "bank", amount)
+	end
+
+	Withdraw = function(amount)
+		CallRemote(ReplicatedStorage.Remotes.Get, "transfer_funds", "bank", "hand", amount)
+	end
+end
+
+shared.afy = not shared.afy
+print(shared.afy)
+
+while ((Flags.Enabled or shared.afy) and task.wait()) do
+	local Char = GetChar(Client)
+	local Hum = GetHum(Char)
+	local Root = GetRoot(Char)
+
+	if (Char and Hum and Root) then
+		if (Hum:GetStateEnabled(Enum.HumanoidStateType.Seated)) then
+			Hum:SetStateEnabled(Enum.HumanoidStateType.Seated, false)
+		end
+
+		Root.AssemblyLinearVelocity = vector.create(0, 0.5, 0)
+
+		if (Flags.StaminaFarm) then
+			VirtualInputManager:SendKeyEvent(true, 'W', false, game)
+			VirtualInputManager:SendKeyEvent(true, 'LeftShift', false, game)
+		end
+
+		if (Hum.Health / Hum.MaxHealth * 100 < 10) then
+			CallRemote(ReplicatedStorage.Remotes.Send, "death_screen_request_respawn")
+		end
+	end
+
+	local MoneyTextLabel = SmartGet(PlayerGui, 'TopRightHud.Holder.Frame.MoneyTextLabel')
+	local MoneyText = MoneyTextLabel and MoneyTextLabel.Text
+	local MoneyNumber = tonumber(MoneyText:match("%d+"))
+
+	if (MoneyNumber and MoneyNumber >= (Flags.DepositAt or 10_000) and tick() - HiddenFlags.MoneyDebounce > 1) then
+		Deposit(Flags.DepositAmount or 5_000)
+		HiddenFlags.MoneyDebounce = tick()
+	end
+
+	if (HasTool('HackToolQuantum') or HasTool('HackToolUltimate') or HasTool('HackToolPro') or HasTool('HackToolBasic')) then
+		local SliderMinigameFrame = SmartGet(PlayerGui, 'SliderMinigame.SliderMinigameFrame')
+		local Bar = SmartGet(SliderMinigameFrame, 'Bar')
+		local Needle = SmartGet(Bar, 'Needle')
+		local Target = SmartGet(Bar, 'Target')
+
+		if (SliderMinigameFrame and SliderMinigameFrame.Visible and Bar and Needle and Target) then	
+			if (CounterTable) then	
+				MoveTo(HiddenFlags.LastATM:GetPivot().Position + vector.create(0, -2, 0))
+				CallRemote(ReplicatedStorage.Remotes.Send, "minigame_win", HiddenFlags.LastATM)
+				MoveTo(HiddenFlags.LastATM:GetPivot().Position + vector.create(0, -10, 0))
+			else
+				local NeedleX = Needle.Position.X.Scale
+				local TargetX = Target.Position.X.Scale
+				local TargetSize = Target.Size.X.Scale / 2
+
+				if NeedleX >= (TargetX - TargetSize) and NeedleX <= (TargetX + TargetSize) then
+					if (TargetSize <= 0.06) then
+						MoveTo(HiddenFlags.LastATM:GetPivot().Position + vector.create(0, -2, 0))
+					end
+
+					VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 0)
+					VirtualInputManager:SendMouseButtonEvent(0, 0, 0, false, game, 0)
+
+					if (TargetSize <= 0.06) then
+						SmartWait(0.2)
+						MoveTo(HiddenFlags.LastATM:GetPivot().Position + vector.create(0, -10, 0))
+					end
+				end
+			end
+		else
+			local ATMHolder = SmartGet(PlayerGui, 'ATM.ATMHolder')
+			local ATMHackButton = SmartGet(ATMHolder, 'ATMHomePage.Title.ATMHackButton')
+			local ChooseOptionsHolder = SmartGet(PlayerGui, 'SelectOption.ChooseOptionsHolder')
+			local ChooseOptionsScrollingFrame = SmartGet(ChooseOptionsHolder, 'ChooseOptionsScrollingFrame')
+
+			if (ChooseOptionsHolder and ChooseOptionsHolder.Visible and ChooseOptionsScrollingFrame) then
+				local ToolButton = ChooseOptionsScrollingFrame:FindFirstChild(HasTool('HackToolQuantum') and 'Quantum Hack Tool' or HasTool('HackToolUltimate') and 'Ultimate Hack Tool' or HasTool('HackToolPro') and 'Pro Hack Tool' or 'Basic Hack Tool')
+
+				if (ToolButton) then
+					local TextButton = SmartGet(ToolButton, 'TextButton')
+
+					if (TextButton) then
+						for i,v in getconnections(TextButton.MouseButton1Click) do
+							v:Function()
+						end
+					end
+				end
+
+			elseif (ATMHolder and ATMHolder.Visible and ATMHackButton) then
+				for i,v in getconnections(ATMHackButton.MouseButton1Click) do
+					v:Function()
+				end
+
+			else
+				local ATM, ATM_Prox = GetATM()
+
+				if (ATM and ATM_Prox) then
+					MoveTo(ATM:GetPivot().Position + vector.create(0, -10, 0))
+					fireproximityprompt(ATM_Prox)
+					HiddenFlags.LastATM = ATM
+				end
+			end
+		end
+	else
+		local AlleyWayGuy = SmartGet(workspace, 'Map.NPCs.AlleyWayGuy')
+		if (not AlleyWayGuy) then continue end
+
+		MoveTo(AlleyWayGuy:GetPivot().Position + vector.create(0, -10, 0))
+		fireproximityprompt(workspace.ConsumableShopZone_Illegal.ProximityPrompt)
+
+		local function GetBuyTool(tool_name)
+			local ConsumableOptionsScrollingFrame = SmartGet(PlayerGui, 'ConsumableBuy.ConsumableOptionsHolder.ConsumableOptionsScrollingFrame')
+
+			for i,v in (ConsumableOptionsScrollingFrame:GetChildren()) do
+				local Options = SmartGet(v, 'Item.Options')
+				local ConsumableName = SmartGet(Options, 'ConsumableName')
+				local BuyButton = SmartGet(Options, 'ConsumableBuyButton')
+
+				if (ConsumableName and ConsumableName.Text == tool_name and BuyButton and BuyButton.Visible) then
+					return Options
+				end
+			end
+		end
+
+		local function BuyTool(ToolType)
+			local ConsumableBuyButton = SmartGet(ToolType, 'ConsumableBuyButton')
+
+			if (ConsumableBuyButton) then
+				for i,v in getconnections(ConsumableBuyButton.MouseButton1Click) do
+					v:Function()
+				end
+			end
+		end
+
+		for i = 1, Flags.BuyAmount or 15 do
+			local QuantumTool = GetBuyTool('Quantum Hack Tool')
+			local UltimateTool = GetBuyTool('Ultimate Hack Tool')
+			local ProTool = GetBuyTool('Pro Hack Tool')
+			local BasicTool = GetBuyTool('Basic Hack Tool')
+
+			BuyTool(QuantumTool and MoneyNumber >= 550 and QuantumTool or UltimateTool and MoneyNumber >= 350 and UltimateTool or ProTool and MoneyNumber >= 150 and ProTool or BasicTool)
+			MoveTo(AlleyWayGuy:GetPivot().Position + vector.create(0, -10, 0))
+		end
+	end
+end
